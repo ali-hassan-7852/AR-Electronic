@@ -1,0 +1,26 @@
+{
+  "name": "AR Electronics",
+  "legalName": "AR Electronics",
+  "tagline": "Smart Electronics. Better Living.",
+  "description": "Your trusted destination for quality electronics and home appliances.",
+  "whatsapp": "923001234567",
+  "phone": "+92 300 1234567",
+  "email": "sales@arelectronics.com",
+  "address": "Main Electronics Market, Pakistan",
+  "businessHours": "Monday to Saturday, 10:00 AM to 9:00 PM",
+  "siteUrl": "https://www.arelectronics.com",
+  "currency": "PKR",
+  "isDemo": true,
+  "publishStructuredData": false,
+  "googleMapsUrl": "",
+  "socials": {
+    "facebook": "",
+    "instagram": "",
+    "tiktok": "",
+    "youtube": ""
+  },
+  "priceNotice": "Prices and availability may change without notice. Please confirm the latest price through WhatsApp before purchasing.",
+  "deliveryNotice": "Ask our team about delivery areas, charges and pickup arrangements before confirming your order.",
+  "warrantyNotice": "Confirm the applicable warranty and service process with our team before purchasing.",
+  "placeholderNotice": "Demo catalogue — sample products, prices, specifications and illustrations. Contact details are placeholders."
+}

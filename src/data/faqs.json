@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Do you have a physical store?",
+    "answer": "This catalogue is designed for a physical electronics shop. The displayed address and hours are placeholders; confirm the actual location before visiting."
+  },
+  {
+    "question": "How can I order online?",
+    "answer": "Choose a product, select options and quantity, then tap Buy on WhatsApp. The team confirms details and arranges the purchase. There is no online payment or checkout."
+  },
+  {
+    "question": "Can I order through WhatsApp?",
+    "answer": "Yes. Product buttons prepare an inquiry for you to send on WhatsApp. An inquiry does not confirm an order or reserve stock."
+  },
+  {
+    "question": "Are website prices final?",
+    "answer": "Prices can change. Demo prices are sample data. Confirm the latest price directly with the shop before buying."
+  },
+  {
+    "question": "How can I check product availability?",
+    "answer": "Use the product WhatsApp button to confirm current availability and variants."
+  },
+  {
+    "question": "Do products include warranty?",
+    "answer": "Warranty depends on the product and supplier. Ask for exact terms, coverage and the service process before purchasing."
+  },
+  {
+    "question": "Do you provide delivery?",
+    "answer": "Ask about delivery areas, charges and timing. Delivery is subject to confirmation."
+  },
+  {
+    "question": "Can I collect my order from the shop?",
+    "answer": "Arrange pickup with the team and confirm the shop location, hours and product readiness before visiting."
+  },
+  {
+    "question": "Can I ask for a product that is not listed?",
+    "answer": "Send the product name or model on WhatsApp. The team can check whether it can be sourced."
+  }
+]

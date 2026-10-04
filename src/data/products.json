@@ -1,0 +1,1440 @@
+[
+  {
+    "id": "haier-43-inch-smart-led-tv",
+    "slug": "haier-43-inch-smart-led-tv",
+    "name": "Haier 43-inch Smart LED TV",
+    "brand": "Haier",
+    "model": "H43-DEMO",
+    "categoryId": "televisions",
+    "shortDescription": "43-inch · Full HD · Smart TV",
+    "description": "A sample 43-inch smart led tv for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/tv.webp",
+    "gallery": [
+      "/images/products/tv.webp"
+    ],
+    "price": 89999,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": true,
+    "popular": true,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-01",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Screen size",
+        "values": [
+          "43 inch"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "H43-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "43-inch · Full HD · Smart TV"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Haier 43-inch Smart LED TV",
+      "description": "Browse this sample 43-inch smart led tv listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "tcl-55-inch-4k-smart-tv",
+    "slug": "tcl-55-inch-4k-smart-tv",
+    "name": "TCL 55-inch 4K Smart TV",
+    "brand": "TCL",
+    "model": "T55-DEMO",
+    "categoryId": "televisions",
+    "shortDescription": "55-inch · 4K · Smart TV",
+    "description": "A sample 55-inch 4k smart tv for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/tv.webp",
+    "gallery": [
+      "/images/products/tv.webp"
+    ],
+    "price": 139999,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": false,
+    "newArrival": true,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-02",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Screen size",
+        "values": [
+          "55 inch"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "T55-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "55-inch · 4K · Smart TV"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "TCL 55-inch 4K Smart TV",
+      "description": "Browse this sample 55-inch 4k smart tv listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "dawlance-double-door-refrigerator",
+    "slug": "dawlance-double-door-refrigerator",
+    "name": "Dawlance Double Door Refrigerator",
+    "brand": "Dawlance",
+    "model": "D260-DEMO",
+    "categoryId": "refrigerators",
+    "shortDescription": "260 litres · Double door",
+    "description": "A sample double door refrigerator for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/fridge.webp",
+    "gallery": [
+      "/images/products/fridge.webp"
+    ],
+    "price": 112000,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": false,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-03",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "D260-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "260 litres · Double door"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Dawlance Double Door Refrigerator",
+      "description": "Browse this sample double door refrigerator listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "haier-inverter-refrigerator",
+    "slug": "haier-inverter-refrigerator",
+    "name": "Haier Inverter Refrigerator",
+    "brand": "Haier",
+    "model": "H340-DEMO",
+    "categoryId": "refrigerators",
+    "shortDescription": "340 litres · Inverter",
+    "description": "A sample inverter refrigerator for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/fridge.webp",
+    "gallery": [
+      "/images/products/fridge.webp"
+    ],
+    "price": 154000,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": true,
+    "popular": true,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-04",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "H340-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "340 litres · Inverter"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Haier Inverter Refrigerator",
+      "description": "Browse this sample inverter refrigerator listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "gree-1-5-ton-inverter-ac",
+    "slug": "gree-1-5-ton-inverter-ac",
+    "name": "Gree 1.5 Ton Inverter AC",
+    "brand": "Gree",
+    "model": "G18-DEMO",
+    "categoryId": "air-conditioners",
+    "shortDescription": "1.5 ton · Inverter cooling",
+    "description": "A sample 1.5 ton inverter ac for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/ac.webp",
+    "gallery": [
+      "/images/products/ac.webp"
+    ],
+    "price": 189000,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": true,
+    "popular": false,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": true,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-05",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "G18-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "1.5 ton · Inverter cooling"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Gree 1.5 Ton Inverter AC",
+      "description": "Browse this sample 1.5 ton inverter ac listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "haier-1-ton-inverter-ac",
+    "slug": "haier-1-ton-inverter-ac",
+    "name": "Haier 1 Ton Inverter AC",
+    "brand": "Haier",
+    "model": "H12-DEMO",
+    "categoryId": "air-conditioners",
+    "shortDescription": "1 ton · Inverter cooling",
+    "description": "A sample 1 ton inverter ac for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/ac.webp",
+    "gallery": [
+      "/images/products/ac.webp"
+    ],
+    "price": 139000,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": false,
+    "newArrival": true,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-06",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "H12-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "1 ton · Inverter cooling"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Haier 1 Ton Inverter AC",
+      "description": "Browse this sample 1 ton inverter ac listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "lg-front-load-washing-machine",
+    "slug": "lg-front-load-washing-machine",
+    "name": "LG Front Load Washing Machine",
+    "brand": "LG",
+    "model": "L8-DEMO",
+    "categoryId": "washing-machines",
+    "shortDescription": "8 kg · Front load",
+    "description": "A sample front load washing machine for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/washer.webp",
+    "gallery": [
+      "/images/products/washer.webp"
+    ],
+    "price": 178000,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": true,
+    "popular": true,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-07",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "L8-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "8 kg · Front load"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "LG Front Load Washing Machine",
+      "description": "Browse this sample front load washing machine listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "dawlance-top-load-washing-machine",
+    "slug": "dawlance-top-load-washing-machine",
+    "name": "Dawlance Top Load Washing Machine",
+    "brand": "Dawlance",
+    "model": "D10-DEMO",
+    "categoryId": "washing-machines",
+    "shortDescription": "10 kg · Top load",
+    "description": "A sample top load washing machine for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/washer.webp",
+    "gallery": [
+      "/images/products/washer.webp"
+    ],
+    "price": 92000,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": false,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-08",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "D10-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "10 kg · Top load"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Dawlance Top Load Washing Machine",
+      "description": "Browse this sample top load washing machine listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "samsung-digital-microwave-oven",
+    "slug": "samsung-digital-microwave-oven",
+    "name": "Samsung Digital Microwave Oven",
+    "brand": "Samsung",
+    "model": "S23-DEMO",
+    "categoryId": "microwave-ovens",
+    "shortDescription": "23 litres · Digital controls",
+    "description": "A sample digital microwave oven for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/microwave.webp",
+    "gallery": [
+      "/images/products/microwave.webp"
+    ],
+    "price": 42500,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": false,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-09",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "S23-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "23 litres · Digital controls"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Samsung Digital Microwave Oven",
+      "description": "Browse this sample digital microwave oven listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "orient-grill-microwave-oven",
+    "slug": "orient-grill-microwave-oven",
+    "name": "Orient Grill Microwave Oven",
+    "brand": "Orient",
+    "model": "O25-DEMO",
+    "categoryId": "microwave-ovens",
+    "shortDescription": "25 litres · Grill function",
+    "description": "A sample grill microwave oven for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/microwave.webp",
+    "gallery": [
+      "/images/products/microwave.webp"
+    ],
+    "price": 38500,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": true,
+    "newArrival": true,
+    "inStock": false,
+    "lowStock": false,
+    "outOfStock": true,
+    "onOrder": false,
+    "addedAt": "2026-09-10",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "O25-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "25 litres · Grill function"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Orient Grill Microwave Oven",
+      "description": "Browse this sample grill microwave oven listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "kenwood-everyday-blender",
+    "slug": "kenwood-everyday-blender",
+    "name": "Kenwood Everyday Blender",
+    "brand": "Kenwood",
+    "model": "K500-DEMO",
+    "categoryId": "kitchen-appliances",
+    "shortDescription": "1.5 litres · Multiple speeds",
+    "description": "A sample everyday blender for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/blender.webp",
+    "gallery": [
+      "/images/products/blender.webp"
+    ],
+    "price": 14500,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": true,
+    "popular": false,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-11",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "K500-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "1.5 litres · Multiple speeds"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Kenwood Everyday Blender",
+      "description": "Browse this sample everyday blender listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "philips-air-fryer",
+    "slug": "philips-air-fryer",
+    "name": "Philips Air Fryer",
+    "brand": "Philips",
+    "model": "P4-DEMO",
+    "categoryId": "kitchen-appliances",
+    "shortDescription": "4 litres · Adjustable temperature",
+    "description": "A sample air fryer for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/blender.webp",
+    "gallery": [
+      "/images/products/blender.webp"
+    ],
+    "price": 32900,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": false,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-12",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "P4-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "4 litres · Adjustable temperature"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Philips Air Fryer",
+      "description": "Browse this sample air fryer listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "orient-pedestal-fan",
+    "slug": "orient-pedestal-fan",
+    "name": "Orient Pedestal Fan",
+    "brand": "Orient",
+    "model": "O18-DEMO",
+    "categoryId": "fans",
+    "shortDescription": "18-inch · Adjustable height",
+    "description": "A sample pedestal fan for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/fan.webp",
+    "gallery": [
+      "/images/products/fan.webp"
+    ],
+    "price": 11500,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": true,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-13",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "O18-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "18-inch · Adjustable height"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Orient Pedestal Fan",
+      "description": "Browse this sample pedestal fan listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "dawlance-rechargeable-fan",
+    "slug": "dawlance-rechargeable-fan",
+    "name": "Dawlance Rechargeable Fan",
+    "brand": "Dawlance",
+    "model": "D16-DEMO",
+    "categoryId": "fans",
+    "shortDescription": "16-inch · Rechargeable",
+    "description": "A sample rechargeable fan for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/fan.webp",
+    "gallery": [
+      "/images/products/fan.webp"
+    ],
+    "price": 18900,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": false,
+    "newArrival": true,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-14",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "D16-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "16-inch · Rechargeable"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Dawlance Rechargeable Fan",
+      "description": "Browse this sample rechargeable fan listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "dawlance-water-dispenser",
+    "slug": "dawlance-water-dispenser",
+    "name": "Dawlance Water Dispenser",
+    "brand": "Dawlance",
+    "model": "D3-DEMO",
+    "categoryId": "water-dispensers",
+    "shortDescription": "Three taps · Floor standing",
+    "description": "A sample water dispenser for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/dispenser.webp",
+    "gallery": [
+      "/images/products/dispenser.webp"
+    ],
+    "price": 38500,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": false,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-15",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "D3-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "Three taps · Floor standing"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Dawlance Water Dispenser",
+      "description": "Browse this sample water dispenser listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "orient-hot-cold-water-dispenser",
+    "slug": "orient-hot-cold-water-dispenser",
+    "name": "Orient Hot & Cold Water Dispenser",
+    "brand": "Orient",
+    "model": "O2-DEMO",
+    "categoryId": "water-dispensers",
+    "shortDescription": "Hot and cold · Floor standing",
+    "description": "A sample hot & cold water dispenser for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/dispenser.webp",
+    "gallery": [
+      "/images/products/dispenser.webp"
+    ],
+    "price": 34500,
+    "oldPrice": null,
+    "showPrice": false,
+    "priceLabel": null,
+    "featured": false,
+    "popular": true,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-16",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "O2-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "Hot and cold · Floor standing"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Orient Hot & Cold Water Dispenser",
+      "description": "Browse this sample hot & cold water dispenser listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "philips-steam-iron",
+    "slug": "philips-steam-iron",
+    "name": "Philips Steam Iron",
+    "brand": "Philips",
+    "model": "P2000-DEMO",
+    "categoryId": "irons",
+    "shortDescription": "Steam control · 2000 W",
+    "description": "A sample steam iron for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/iron.webp",
+    "gallery": [
+      "/images/products/iron.webp"
+    ],
+    "price": 9500,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": false,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-17",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "P2000-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "Steam control · 2000 W"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Philips Steam Iron",
+      "description": "Browse this sample steam iron listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "kenwood-dry-iron",
+    "slug": "kenwood-dry-iron",
+    "name": "Kenwood Dry Iron",
+    "brand": "Kenwood",
+    "model": "K1200-DEMO",
+    "categoryId": "irons",
+    "shortDescription": "Temperature control · 1200 W",
+    "description": "A sample dry iron for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/iron.webp",
+    "gallery": [
+      "/images/products/iron.webp"
+    ],
+    "price": 5900,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": false,
+    "newArrival": true,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-18",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "K1200-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "Temperature control · 1200 W"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Kenwood Dry Iron",
+      "description": "Browse this sample dry iron listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "samsung-canister-vacuum-cleaner",
+    "slug": "samsung-canister-vacuum-cleaner",
+    "name": "Samsung Canister Vacuum Cleaner",
+    "brand": "Samsung",
+    "model": "S1600-DEMO",
+    "categoryId": "vacuum-cleaners",
+    "shortDescription": "1600 W · Reusable filter",
+    "description": "A sample canister vacuum cleaner for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/vacuum.webp",
+    "gallery": [
+      "/images/products/vacuum.webp"
+    ],
+    "price": 29500,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": true,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-19",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "S1600-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "1600 W · Reusable filter"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Samsung Canister Vacuum Cleaner",
+      "description": "Browse this sample canister vacuum cleaner listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "lg-compact-vacuum-cleaner",
+    "slug": "lg-compact-vacuum-cleaner",
+    "name": "LG Compact Vacuum Cleaner",
+    "brand": "LG",
+    "model": "L1400-DEMO",
+    "categoryId": "vacuum-cleaners",
+    "shortDescription": "1400 W · Compact design",
+    "description": "A sample compact vacuum cleaner for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/vacuum.webp",
+    "gallery": [
+      "/images/products/vacuum.webp"
+    ],
+    "price": 24900,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": false,
+    "newArrival": false,
+    "inStock": false,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": true,
+    "addedAt": "2026-09-20",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "L1400-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "1400 W · Compact design"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "LG Compact Vacuum Cleaner",
+      "description": "Browse this sample compact vacuum cleaner listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "samsung-wireless-speaker",
+    "slug": "samsung-wireless-speaker",
+    "name": "Samsung Wireless Speaker",
+    "brand": "Samsung",
+    "model": "SA20-DEMO",
+    "categoryId": "speakers-audio",
+    "shortDescription": "Bluetooth · Portable audio",
+    "description": "A sample wireless speaker for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/speaker.webp",
+    "gallery": [
+      "/images/products/speaker.webp"
+    ],
+    "price": 19900,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": true,
+    "popular": false,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-21",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "SA20-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "Bluetooth · Portable audio"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Samsung Wireless Speaker",
+      "description": "Browse this sample wireless speaker listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "lg-home-soundbar",
+    "slug": "lg-home-soundbar",
+    "name": "LG Home Soundbar",
+    "brand": "LG",
+    "model": "LA100-DEMO",
+    "categoryId": "speakers-audio",
+    "shortDescription": "TV audio · Wireless connectivity",
+    "description": "A sample home soundbar for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/speaker.webp",
+    "gallery": [
+      "/images/products/speaker.webp"
+    ],
+    "price": 45900,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": true,
+    "newArrival": true,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-22",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "LA100-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "TV audio · Wireless connectivity"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "LG Home Soundbar",
+      "description": "Browse this sample home soundbar listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "philips-electric-kettle",
+    "slug": "philips-electric-kettle",
+    "name": "Philips Electric Kettle",
+    "brand": "Philips",
+    "model": "P17-DEMO",
+    "categoryId": "small-electronics",
+    "shortDescription": "1.7 litres · Automatic shut-off",
+    "description": "A sample electric kettle for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/kettle.webp",
+    "gallery": [
+      "/images/products/kettle.webp"
+    ],
+    "price": 8500,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": false,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-23",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "P17-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "1.7 litres · Automatic shut-off"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Philips Electric Kettle",
+      "description": "Browse this sample electric kettle listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  },
+  {
+    "id": "kenwood-two-slice-toaster",
+    "slug": "kenwood-two-slice-toaster",
+    "name": "Kenwood Two Slice Toaster",
+    "brand": "Kenwood",
+    "model": "K2-DEMO",
+    "categoryId": "small-electronics",
+    "shortDescription": "Two slices · Adjustable browning",
+    "description": "A sample two slice toaster for everyday home use. This listing illustrates the catalogue experience; the exact model, features and specifications require confirmation from the shop.",
+    "image": "/images/products/kettle.webp",
+    "gallery": [
+      "/images/products/kettle.webp"
+    ],
+    "price": 7900,
+    "oldPrice": null,
+    "showPrice": true,
+    "priceLabel": null,
+    "featured": false,
+    "popular": false,
+    "newArrival": false,
+    "inStock": true,
+    "lowStock": false,
+    "outOfStock": false,
+    "onOrder": false,
+    "addedAt": "2026-09-24",
+    "sampleData": true,
+    "options": [
+      {
+        "label": "Finish",
+        "values": [
+          "Silver",
+          "White"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "K2-DEMO"
+      },
+      {
+        "label": "Sample details",
+        "value": "Two slices · Adjustable browning"
+      },
+      {
+        "label": "Variants",
+        "value": "Confirm available variants with the shop"
+      }
+    ],
+    "features": [
+      "Practical design for everyday use",
+      "Ask our team for help comparing options",
+      "Confirm exact features before ordering"
+    ],
+    "warranty": "Confirm warranty with the shop before purchasing.",
+    "seo": {
+      "title": "Kenwood Two Slice Toaster",
+      "description": "Browse this sample two slice toaster listing. Ask our team on WhatsApp for confirmed specifications, latest price and availability."
+    }
+  }
+]

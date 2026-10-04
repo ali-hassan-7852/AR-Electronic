@@ -1,0 +1,63 @@
+{
+  "hero": {
+    "eyebrow": "YOUR NEXT UPGRADE STARTS HERE",
+    "title": "Better tech.\nBetter everyday.",
+    "description": "Discover electronics and home appliances for the way you live. Explore, compare, and talk to our team on WhatsApp.",
+    "image": "/images/hero/electronics.webp"
+  },
+  "about": {
+    "title": "Good advice. Great electronics.",
+    "intro": "Choosing an appliance should feel simple. Our catalogue brings the physical shop experience online, so you can explore your options before talking to our team.",
+    "mission": "Help customers find electronics that fit their needs and budget, with clear information and useful product guidance.",
+    "values": [
+      "Helpful, personal guidance",
+      "Clear information before you buy",
+      "Support through the physical shop"
+    ],
+    "image": "/images/store/interior.webp"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "notice": "Editable starter policy. Review and approve before launch.",
+    "sections": [
+      {
+        "title": "Information you choose to share",
+        "body": "This website has no accounts, payment forms or backend contact-form storage. Sending an inquiry on WhatsApp shares the information you enter with the business through WhatsApp."
+      },
+      {
+        "title": "External services",
+        "body": "WhatsApp, social platforms and maps have their own privacy policies. Hosting providers may process technical logs such as IP addresses to operate and protect the website."
+      },
+      {
+        "title": "Local browser storage",
+        "body": "Recently viewed product identifiers are stored in your browser when available. Clear site data to remove them. No analytics or advertising trackers are included."
+      },
+      {
+        "title": "Questions and retention",
+        "body": "Contact the business to discuss privacy, correction or deletion of inquiry information. The business must confirm its retention practices before publishing this policy."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "notice": "Editable starter terms. Review before launch; this is not professional legal advice.",
+    "sections": [
+      {
+        "title": "Catalogue information",
+        "body": "Products, images, specifications, prices and stock indicators require confirmation. Demo information is illustrative and is not a verified offer."
+      },
+      {
+        "title": "Purchase inquiries",
+        "body": "A WhatsApp inquiry is not an accepted order, payment or stock reservation. Confirm the product, variant, price, warranty and delivery or pickup before a sale is agreed."
+      },
+      {
+        "title": "Warranty, delivery and returns",
+        "body": "Confirm applicable warranty, delivery charges, pickup arrangements and return or exchange terms directly with the shop before purchase."
+      },
+      {
+        "title": "Brands and images",
+        "body": "Brand names are catalogue labels and do not imply authorized dealership, partnership or endorsement. Demo illustrations do not depict an exact manufacturer model."
+      }
+    ]
+  }
+}

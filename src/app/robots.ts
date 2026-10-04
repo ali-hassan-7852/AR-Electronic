@@ -1,0 +1,1 @@
+import type {MetadataRoute} from 'next';import business from '@/data/business.json';export default function robots():MetadataRoute.Robots{return {rules:{userAgent:'*',allow:business.isDemo?undefined:'/',disallow:business.isDemo?'/':undefined},sitemap:business.siteUrl+'/sitemap.xml'};}

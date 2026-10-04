@@ -1,0 +1,74 @@
+[
+  {
+    "id": "televisions",
+    "name": "Televisions",
+    "image": "/images/categories/tv.webp",
+    "description": "Explore our sample televisions selection."
+  },
+  {
+    "id": "refrigerators",
+    "name": "Refrigerators",
+    "image": "/images/categories/fridge.webp",
+    "description": "Explore our sample refrigerators selection."
+  },
+  {
+    "id": "air-conditioners",
+    "name": "Air Conditioners",
+    "image": "/images/categories/ac.webp",
+    "description": "Explore our sample air conditioners selection."
+  },
+  {
+    "id": "washing-machines",
+    "name": "Washing Machines",
+    "image": "/images/categories/washer.webp",
+    "description": "Explore our sample washing machines selection."
+  },
+  {
+    "id": "microwave-ovens",
+    "name": "Microwave Ovens",
+    "image": "/images/categories/microwave.webp",
+    "description": "Explore our sample microwave ovens selection."
+  },
+  {
+    "id": "kitchen-appliances",
+    "name": "Kitchen Appliances",
+    "image": "/images/categories/blender.webp",
+    "description": "Explore our sample kitchen appliances selection."
+  },
+  {
+    "id": "fans",
+    "name": "Fans",
+    "image": "/images/categories/fan.webp",
+    "description": "Explore our sample fans selection."
+  },
+  {
+    "id": "water-dispensers",
+    "name": "Water Dispensers",
+    "image": "/images/categories/dispenser.webp",
+    "description": "Explore our sample water dispensers selection."
+  },
+  {
+    "id": "irons",
+    "name": "Irons",
+    "image": "/images/categories/iron.webp",
+    "description": "Explore our sample irons selection."
+  },
+  {
+    "id": "vacuum-cleaners",
+    "name": "Vacuum Cleaners",
+    "image": "/images/categories/vacuum.webp",
+    "description": "Explore our sample vacuum cleaners selection."
+  },
+  {
+    "id": "speakers-audio",
+    "name": "Speakers & Audio",
+    "image": "/images/categories/speaker.webp",
+    "description": "Explore our sample speakers & audio selection."
+  },
+  {
+    "id": "small-electronics",
+    "name": "Small Electronics",
+    "image": "/images/categories/kettle.webp",
+    "description": "Explore our sample small electronics selection."
+  }
+]

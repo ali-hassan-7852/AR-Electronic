@@ -1,0 +1,2 @@
+import type {Metadata} from 'next';import business from '@/data/business.json';
+export function pageMetadata(title:string,description:string,path:string):Metadata{return {title,description,alternates:{canonical:path},openGraph:{title:title+' | '+business.name,description,url:path,images:['/images/branding/social.webp']},twitter:{card:'summary_large_image',title,description,images:['/images/branding/social.webp']}};}

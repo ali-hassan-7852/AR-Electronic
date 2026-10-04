@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cooling",
+    "eyebrow": "COMFORT STARTS AT HOME",
+    "title": "Beat the heat. Keep your cool.",
+    "description": "Explore air conditioners and fans for your space.",
+    "href": "/products?category=air-conditioners",
+    "image": "/images/banners/ac.webp",
+    "theme": "light"
+  },
+  {
+    "id": "kitchen",
+    "eyebrow": "SMALL UPGRADES. BIG DIFFERENCE.",
+    "title": "A little help in the kitchen.",
+    "description": "Find your next everyday kitchen essential.",
+    "href": "/products?category=kitchen-appliances",
+    "image": "/images/banners/blender.webp",
+    "theme": "dark"
+  }
+]

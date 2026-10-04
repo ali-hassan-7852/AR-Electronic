@@ -119,7 +119,7 @@ Recently viewed identifiers are saved locally, gracefully handling unavailable s
 
 ## GitHub and Vercel deployment
 
-GitHub/Vercel account authentication is not configured in this environment. No public repository or deployment URL is claimed. The code is prepared for a standard Vercel Next.js Git integration.
+Deployment is live at https://ar-electronics-7852.vercel.app. The main branch is pushed to https://github.com/ali-hassan-7852/AR-Electronic. Vercel is authorized and the local project is linked to ar-electronics-7852. The initial Vercel GitHub connection failed, so automatic deployments on pushes are not yet enabled. Connect this repository in Vercel Project Settings ? Git after granting its GitHub app access. Direct CLI production deployment succeeds. The instructions below also describe setup for future installations.
 
 1. Sign into GitHub and create an **empty** repository named `ar-electronics-website`; do not initialize a README or .gitignore.
 2. Copy the repository URL. From this project folder:
